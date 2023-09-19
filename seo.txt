@@ -1,0 +1,14 @@
+    SEO  Assignment 
+
+Q1) What is SEO and explain the importance of SEO?
+ANS) Search engine optimization is the process of improving the quality and quantity of website traffic to a website or a
+ web page from search engines.
+
+Importance: The more effective SEO efforts, the higher webpage ranking and the better webpage visibility.
+
+Q3)What are the benefits of using meta tags?
+Ans) Meta tags are important because they impact how your site appears in the SERPs and how many people will be inclined to click through to your website.
+
+Q5) Define Favicon and give an illustrative example.
+Ans) A favicon is a tiny icon include along with a website which is displayed in browser's address bar.
+
